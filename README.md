@@ -1,6 +1,6 @@
 # ⚽ SQL no Futebol
 
-Este repositório é o guia oficial da série **SQL no Futebol**, publicada no canal do YouTube [Seu Canal Aqui](https://www.youtube.com/@rodolforicardotech). A série ensina SQL de forma prática e divertida, utilizando dados de futebol como base para os exercícios.
+Este repositório é o guia oficial da série **SQL no Futebol**, publicada no meu canal do [YouTube](https://www.youtube.com/@rodolforicardotech). A série ensina SQL de forma prática e divertida, utilizando dados de futebol como base para os exercícios.
 
 ## ▶️ Aulas
 
